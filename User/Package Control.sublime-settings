@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Compare Side-By-Side",
+		"Package Control",
+		"Pretty JSON",
+		"Select Quoted",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-javac",
+		"SublimeLinter-json",
+		"Terminal",
+		"Text Pastry"
+	]
+}
