@@ -4,6 +4,7 @@
 	"draw_minimap_border": true,
 	"fade_fold_buttons": false,
 	"font_face": "inconsolata",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
