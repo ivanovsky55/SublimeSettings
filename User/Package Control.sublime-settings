@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AutoFileName",
 		"BracketHighlighter",
 		"ChangeQuotes",
@@ -12,6 +13,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"Select Quoted",
+		"SFTP",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-javac",

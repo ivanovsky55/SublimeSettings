@@ -4,6 +4,7 @@
 /.gitignore
 !/User/Preferences.sublime-settings
 !/User/Package Control.sublime-settings
+!/A File Icon
 
 # ...even if they are in subdirectories
 !*/
