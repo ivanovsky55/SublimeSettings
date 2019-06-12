@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AlignTab",
 		"AutoFileName",
 		"BracketHighlighter",
 		"ChangeQuotes",
 		"Compare Side-By-Side",
 		"Package Control",
+		"PowerShell",
 		"Pretty JSON",
 		"Select Quoted",
 		"SFTP",
