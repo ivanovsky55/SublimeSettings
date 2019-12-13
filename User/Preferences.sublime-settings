@@ -15,10 +15,11 @@
 	[
 		"target",
 		".vs",
-		"drop"
+		"drop",
+		".git"
 	],
 	"font_face": "inconsolata",
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
