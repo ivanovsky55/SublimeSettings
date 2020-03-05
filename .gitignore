@@ -5,6 +5,6 @@
 !/User/Preferences.sublime-settings
 !/User/Package Control.sublime-settings
 !/A File Icon.zip
-
+!/User/Default (Windows).sublime-keymap
 # ...even if they are in subdirectories
 !*/
