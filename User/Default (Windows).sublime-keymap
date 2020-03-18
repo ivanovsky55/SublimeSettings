@@ -1,4 +1,7 @@
 [
 	{ "keys": ["ctrl+alt+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
-	{ "keys": ["ctrl+shift+c"], "command": "sbs_compare" }
+	{ "keys": ["ctrl+shift+c"], "command": "sbs_compare" },
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
