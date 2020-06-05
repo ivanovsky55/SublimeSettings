@@ -16,12 +16,14 @@
 		"target",
 		".vs",
 		"drop",
-		".git"
+		".git",
+		"bin/Debug/*"
 	],
 	"font_face": "inconsolata",
 	"font_size": 8,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	]
 }
