@@ -12,6 +12,7 @@
 		"ChangeQuotes",
 		"Compare Side-By-Side",
 		"Package Control",
+		"PlainTasks",
 		"PowerShell",
 		"Pretty JSON",
 		"Python Debugger",
@@ -21,7 +22,8 @@
 		"SublimeLinter",
 		"SublimeLinter-javac",
 		"SublimeLinter-json",
+		"SublimeREPL",
 		"Terminal",
-		"Text Pastry"
-	]
+		"Text Pastry",
+	],
 }

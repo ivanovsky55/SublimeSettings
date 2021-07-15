@@ -1,29 +1,34 @@
 {
-	"auto_complete_commit_on_tab": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"draw_minimap_border": true,
 	"fade_fold_buttons": false,
+	"highlight_modified_tabs": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": "all",
 	"file_exclude_patterns":
 	[
 		"*.pack",
 		"*.nupkg",
 		"*.zip",
 		"*.lock",
-		"*.jar"
+		"*.jar",
+		"*.vsdx"
 	],
 	"folder_exclude_patterns":
 	[
-		"target",
 		".vs",
 		"drop",
 		".git",
 		"bin/Debug/*"
 	],
 	"font_face": "inconsolata",
-	"font_size": 8,
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage",
-		"zzz A File Icon zzz"
-	]
+	],
 }
