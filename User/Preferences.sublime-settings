@@ -16,7 +16,8 @@
 		"*.zip",
 		"*.lock",
 		"*.jar",
-		"*.vsdx"
+		"*.vsdx",
+		"*.pbix"
 	],
 	"folder_exclude_patterns":
 	[
@@ -26,9 +27,10 @@
 		"bin/Debug/*"
 	],
 	"font_face": "inconsolata",
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage",
 	],
+	"update_check": false,
 }
